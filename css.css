@@ -1,0 +1,32 @@
+#page{
+    background-color:pink
+}
+#trangchu{
+    background-color:blue
+}
+#tinlienquan{
+    background-color: yellowgreen
+}
+#title1{
+    background-color: rgb(20, 157, 236)
+}
+#menu1{
+    background-color: rgb(219, 15, 158)
+}
+#b h2{
+    color: rgb(39, 219, 15);
+}
+#b h4{
+    color: rgb(0, 255, 55)
+}
+#a h1{
+    color: blueviolet;
+    
+}
+#menu3{
+    background-color: rgb(176, 233, 21)
+}
+.container{
+    width: 960px;
+
+}
